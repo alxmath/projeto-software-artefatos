@@ -1,0 +1,31 @@
+PLANO DE GERENCIAMENTO DE RISCOS  
+Projeto: Artefatos de Projeto de Software  
+Data: 25/08/2025  
+Autor: Alex Santos Pinto  
+
+1. OBJETIVO  
+Este documento tem por finalidade estabelecer o processo de identificação, análise, monitoramento e mitigação de riscos relacionados ao desenvolvimento e à manutenção de artefatos de projeto de software. O plano busca reduzir a probabilidade de falhas e seus impactos sobre prazos, custos e qualidade.
+
+2. METODOLOGIA  
+- Identificação de riscos a partir de reuniões e análise de documentos.  
+- Classificação conforme probabilidade (Baixa, Média, Alta) e impacto (Baixo, Médio, Alto).  
+- Definição de responsáveis pelo acompanhamento.  
+- Monitoramento contínuo com atualização periódica no repositório.  
+
+3. MATRIZ DE RISCOS  
+
+| ID | Risco                          | Probabilidade | Impacto | Estratégia de Resposta              | Responsável       |
+|----|-------------------------------|---------------|---------|-------------------------------------|------------------|
+| R1 | Perda de artefatos             | Média         | Alto    | Backup automático e versionamento   | Equipe de TI     |
+| R2 | Falhas de comunicação          | Alta          | Médio   | Reuniões semanais e registro no repo| Gerente de Projeto |
+| R3 | Alterações não controladas     | Média         | Alto    | Uso de branches e code review       | Líder Técnico    |
+| R4 | Indisponibilidade da plataforma| Baixa         | Alto    | Plano de contingência e mirror repo | Equipe de TI     |
+| R5 | Resistência ao uso da ferramenta| Média        | Médio   | Treinamentos e suporte contínuo     | Gerente de Projeto |
+
+4. MONITORAMENTO E CONTROLE  
+- Os riscos serão revisados quinzenalmente.  
+- Novos riscos serão incluídos mediante atualização deste documento.  
+- O repositório GitHub servirá como fonte única de versionamento deste plano.  
+
+5. CONSIDERAÇÕES FINAIS  
+O gerenciamento de riscos constitui atividade fundamental para garantir a qualidade e a continuidade dos projetos de software. A aplicação deste plano permite maior controle, rastreabilidade e governança, reduzindo incertezas e apoiando a tomada de decisão.  
